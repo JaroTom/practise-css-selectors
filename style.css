@@ -3,5 +3,23 @@
 }
 p {
   background-color: yellow;
+}
+div {
+  color: #000000;
+
+}
+.big {
   color: blue;
+}
+body {
+  width: 250px;
+}
+.b329 {
+  font-weight: bold;
+}
+#b325 {
+  border: 1px solid green;
+}
+.b326 {
+  border:  1px solid green;
 }
